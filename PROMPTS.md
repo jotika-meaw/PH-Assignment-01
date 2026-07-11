@@ -288,4 +288,4 @@ As your mentor, I'd recommend building sections that **teach you a new CSS conce
 
 
 
-I Choose this to do : "Attend DevConf"
+I Choose this to do : "Why Attend DevConf"
