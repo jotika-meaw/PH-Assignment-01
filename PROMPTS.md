@@ -1,4 +1,4 @@
-"I think you are a professional developer and a mentor in my web development learning journey. As you guide me as a mentor, read the text below and help me decide what I should do: Today I am going to make this design (whose picture I gave you in this chatbox) in my HTML and CSS assignment. To do this, tell me in the "something missing" section what I should do that is relevant to this image. NB: I need ideas, not the code, and remember I am at a beginner stage."
+"Think you are a professional developer and a mentor in my web development learning journey. As you guide me as a mentor, read the text below and help me decide what I should do: I am building a DevConf 2026 landing page using only HTML and CSS as a beginner. Suggest a unique section that is relevant to a modern developer conference but is less common than FAQ, Sponsors, or Newsletter. The section should fit naturally after the pricing section, be visually appealing in a card/grid layout, and be simple enough for a beginner to implement. NB: I need ideas, not the code, and remember I am at a beginner stage."
 
 Chatgpt responce is given below: 
 
