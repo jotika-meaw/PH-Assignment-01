@@ -283,13 +283,64 @@ font-size: 24px;
     color:white;
 }
 
+/* Why Attend Section */
 
+.why-attend{
+    padding:100px 0;
+    background:#F8FAFC;
+}
 
+.why-attend h2{
+    text-align:center;
+    font-size:48px;
+    font-weight:700;
+    margin-bottom:15px;
+}
 
+.why-attend p{
+    text-align:center;
+    color:#575757;
+    font-size:16px;
+    margin-bottom:60px;
+}
 
+.why-grid{
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    gap:24px;
+}
 
+.why-card{
+    background:#ffffff;
+    border:1px solid #d4d8e1;
+    border-radius:12px;
+    padding:30px 25px;
+    text-align:center;
+    transition:.3s;
+}
 
+.why-card:hover{
+    transform:translateY(-8px);
+    box-shadow:0 10px 25px rgba(0,0,0,.08);
+}
 
+.icon{
+    font-size:48px;
+    margin-bottom:20px;
+}
+
+.why-card h3{
+    font-size:24px;
+    margin-bottom:15px;
+    color:#0D1B2A;
+}
+
+.why-card p{
+    font-size:16px;
+    line-height:1.6;
+    color:#575757;
+    margin-bottom:0;
+}
 
 
 /* Footer */
