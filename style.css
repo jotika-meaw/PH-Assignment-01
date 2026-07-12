@@ -8,7 +8,7 @@
 
 img{
   max-width: 100%;  
-  display: block;    /* remove extra space below image */
+  display: block;    
 }
 
 .container{
@@ -384,10 +384,28 @@ footer hr{
 }
 
 .footer-bottom{
-    text-align:center;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
 }
 
 .footer-bottom p{
     color:#9CA3AF;
     font-size:16px;
+}
+
+.footer-links{
+    display:flex;
+    gap:30px;
+}
+
+.footer-links a{
+    color:#9CA3AF;
+    text-decoration:none;
+    font-size:16px;
+    transition:0.3s;
+}
+
+.footer-links a:hover{
+    color:white;
 }
